@@ -1,29 +1,5 @@
-.grid-conteiner{
-    background-image: url(../asset/);
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr;
-    grid-template-areas: 
-    " inicial   inicial   inicial   inicial "
-
-    " principal principal principal principal "
-
-    " prefooter prefooter prefooter prefooter "
-
-    " pie       pie       pie       pie "
-    ;
-}
-.cabeza{
-    grid-area: ;
-}
-.galery{
-    grid-area: ;
-}
-.maps{
-    grid-area: ;
-}
-.contactos{
-    grid-area: ;
+.conteiner-principal{
+    background-image: url(../asset/fondo.jpg);
 }
 .map1{
     
